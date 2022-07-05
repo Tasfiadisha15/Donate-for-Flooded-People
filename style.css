@@ -97,3 +97,50 @@ h4 {
 
 
 }
+
+#background1 {
+    background-color: rgb(238, 39, 122);
+}
+
+#background2 {
+    background-color: rgb(33, 155, 163);
+}
+
+#background3 {
+    background-color: rgb(231, 64, 64);
+}
+
+.align {
+    text-align: center;
+    background-color: black;
+    height: 100px;
+}
+
+h2 {
+    color: rgb(218, 42, 77);
+}
+
+h6 {
+    color: white;
+}
+
+.width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+.width img {
+    width: 90%;
+}
+
+.contribute {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 191), tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
