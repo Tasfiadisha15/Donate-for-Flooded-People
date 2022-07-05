@@ -1,7 +1,47 @@
-h1 {
-    color: aqua;
+body {
+    font-family: 'Playfair Display', serif;
+
 }
 
-p {
-    background-color: blueviolet;
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(10, 0, 0);
+}
+
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+
+}
+
+.donate-now {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 191), tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.tk {
+    display: flex;
+    margin-bottom: auto;
+
+
 }
