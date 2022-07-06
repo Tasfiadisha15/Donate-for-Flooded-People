@@ -144,3 +144,18 @@ h6 {
 
 
 }
+
+p {
+    text-align: center;
+}
+
+.center {
+    justify-content: center;
+    background-color: rgb(245, 185, 215);
+
+}
+
+.subs {
+    background-color: rgb(160, 14, 43);
+    color: white;
+}
